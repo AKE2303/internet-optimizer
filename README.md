@@ -93,8 +93,8 @@ Agar xatolik bo'lsa:
 
 ## 📞 Bog'lanish
 
-GitHub: [Sizning GitHub linki]
-Telegram: @Ravshan_Karimov_engineer
+GitHub: [https://github.com/AKE2303]
+Telegram: @turdiyevazam
 
 ## 📄 Litsenziya
 
