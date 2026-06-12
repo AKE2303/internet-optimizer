@@ -94,7 +94,7 @@ Agar xatolik bo'lsa:
 ## 📞 Bog'lanish
 
 GitHub: [https://github.com/AKE2303]
-Telegram: @turdiyevazam
+Telegram: @https://t.me/turdiyevazam
 
 ## 📄 Litsenziya
 
