@@ -9,7 +9,7 @@
 ```bash
 apt update && apt upgrade
 apt install python3 git
-git clone https://github.com/YOUR_USERNAME/internet-optimizer.git
+git clone https://github.com/AKE2303/internet-optimizer.git
 cd internet-optimizer
 ```
 
